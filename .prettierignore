@@ -1,0 +1,14 @@
+# Ignore artifacts:
+dist
+build
+coverage
+node_modules
+
+# Ignore all HTML files:
+*.html
+
+# Ignore all markdown files:
+*.md
+
+# Ignore all files in public folder
+public/*
